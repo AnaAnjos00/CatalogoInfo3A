@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import "./globals.css";
+import Home from "./1-AtividadeCriarComponente/index";
 
 export default function App() {
     return (
